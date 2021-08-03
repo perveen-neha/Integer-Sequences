@@ -5,7 +5,7 @@
 <p> &#9940; Closed</p>
 <br>
 <h3>Sorted by original <a href="https://en.wikipedia.org/wiki/List_of_integer_sequences">wikipedia</a> table</h3>
-
+gol
 <!----> 
 <!---->
 <!---->
@@ -198,7 +198,7 @@
 <tr>
   <td align=center><p> &#9203;</p></td>
   <td><a href="./Golomb Sequence">Golomb sequence</a></td>
-  <td>Python</td>
+  <td>Python, C++</td>
 </tr>
 <tr>
   <td align=center><p> &#9203;</p></td>
