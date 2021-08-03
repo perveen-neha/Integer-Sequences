@@ -468,6 +468,12 @@
   <td>Solution to Stepping Stone Puzzle</td>
   <td>        </td>
 </tr>
+ <tr>
+  <td align=center><p>  &#9203;</p></td>
+  <td>Solution to All Exponent Integer Series</td>
+  <td>C, C++, Python</td>
+</tr>
+    
 <!--<tfoot>
   <tr>
     <td>Total</td>
